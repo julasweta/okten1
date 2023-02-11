@@ -62,7 +62,7 @@ i:hover {
 /* Slider */
 .slider {
   width: 100%;
-   padding-bottom: 70px;
+  padding-bottom: 70px;
 }
 
 .carousel-control-prev-icon {
@@ -109,9 +109,8 @@ i:hover {
   flex-wrap: wrap;
   margin: 0 145px;
 }
-.reviews__wrap-cource{
 
-}
+.reviews__wrap-cource {}
 
 h1 {
   font-style: normal;
@@ -138,7 +137,7 @@ h3 {
 
 .card_cource {
   width: 297px;
-margin-top: 65px;
+  margin-top: 65px;
 }
 
 
@@ -169,6 +168,6 @@ footer {
   align-items: center;
 }
 
-footer:hover{
-   background: linear-gradient(to right, orange, yellow, green, cyan, blue, violet);
+footer:hover {
+  background: linear-gradient(to right, orange, yellow, green, cyan, blue, violet);
 }
